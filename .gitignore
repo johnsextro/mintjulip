@@ -155,3 +155,8 @@ dist-ssr
 *.sln
 *.sw?
 >>>>>>> 225b02a (Starting the project in github)
+
+# amplify
+.amplify
+amplify_outputs*
+amplifyconfiguration*
